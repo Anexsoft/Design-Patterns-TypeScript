@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Patrones de diseño con TypeScript",
   "scripts": {
-    "test-singleton": "mocha -r ts-node/register src/creational/singleton/*.spec.ts"
+    "test-singleton": "mocha -r ts-node/register src/creational/singleton/*.spec.ts",
+    "test-factory": "mocha -r ts-node/register src/creational/factory/*.spec.ts"
   },
   "author": "kodoti",
   "license": "ISC",
