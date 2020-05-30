@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=Yk5TXytE-gs
 
 ### Creation
 * Singleton - https://www.youtube.com/watch?v=Qckwuge7dpQ
-* Abstract Factory
-* Factory Method
+* Factory - https://www.youtube.com/watch?v=QP33nP-KNko
+* Abstract Factory - https://www.youtube.com/watch?v=JgejyeRyztI
 
 ### Structural
 * Adapter
