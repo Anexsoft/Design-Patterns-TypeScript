@@ -4,9 +4,9 @@ import "mocha";
 import Order from "./order";
 import PaymentType from "./enums/payment-type";
 
-import Visa from "./factory/types/Visa";
-import MasterCard from "./factory/types/MasterCard";
-import PayPal from "./factory/types/PayPal";
+import Visa from "./src/types/Visa";
+import MasterCard from "./src/types/MasterCard";
+import PayPal from "./src/types/PayPal";
 
 let order1 = new Order(PaymentType.Visa, 100),
     order2 = new Order(PaymentType.Mastercard, 100),

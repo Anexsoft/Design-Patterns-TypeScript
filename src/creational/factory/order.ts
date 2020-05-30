@@ -1,6 +1,6 @@
 import PaymentType from "./enums/payment-type";
-import IPaymentMethod from "./factory/payment-method.interface";
-import PaymentMethodFactory from "./factory/payment-method-factory";
+import IPaymentMethod from "./src/payment-method.interface";
+import PaymentMethodFactory from "./src/payment-method-factory";
 
 export default class Order {
     public paymentType?: IPaymentMethod;
