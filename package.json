@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "Patrones de diseño con TypeScript",
   "scripts": {
-    "test-singleton": "mocha -r ts-node/register src/creational/singleton/*.spec.ts",
-    "test-factory": "mocha -r ts-node/register src/creational/factory/*.spec.ts",
-    "test-abstract-factory": "mocha -r ts-node/register src/creational/abstract-factory/*.spec.ts"
+    "test-singleton": "mocha -r ts-node/register creational/singleton/*.spec.ts",
+    "test-factory": "mocha -r ts-node/register creational/factory/*.spec.ts",
+    "test-abstract-factory": "mocha -r ts-node/register creational/abstract-factory/*.spec.ts",
+    "test-creational-adapter": "mocha -r ts-node/register structural/adapter/*.spec.ts"
   },
   "author": "kodoti",
   "license": "ISC",
