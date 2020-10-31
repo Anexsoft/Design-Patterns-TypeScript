@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=Yk5TXytE-gs
 * Abstract Factory - https://www.youtube.com/watch?v=JgejyeRyztI
 
 ### Structural
-* Adapter
-* Decorator
+* Adapter - https://www.youtube.com/watch?v=P5Ig9vtRy-w
+* Decorator - https://www.youtube.com/watch?v=WNlqIsUPp1g
 * Proxy
 
 ### Behavior
