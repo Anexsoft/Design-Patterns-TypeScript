@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=Yk5TXytE-gs
 ### Structural
 * Adapter - https://www.youtube.com/watch?v=P5Ig9vtRy-w
 * Decorator - https://www.youtube.com/watch?v=WNlqIsUPp1g
-* Proxy
+* Proxy - https://www.youtube.com/watch?v=K3EzQjJNJTo
 
 ### Behavior
 * Command
