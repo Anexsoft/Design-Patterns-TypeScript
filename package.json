@@ -8,7 +8,8 @@
     "test-abstract-factory": "mocha -r ts-node/register creational/abstract-factory/*.spec.ts",
     "test-adapter": "mocha -r ts-node/register structural/adapter/*.spec.ts",
     "test-decorator": "mocha -r ts-node/register structural/decorator/*.spec.ts",
-    "test-proxy": "mocha -r ts-node/register structural/proxy/*.spec.ts"
+    "test-proxy": "mocha -r ts-node/register structural/proxy/*.spec.ts",
+    "test-command": "mocha -r ts-node/register behavior/command/*.spec.ts"
   },
   "author": "kodoti",
   "license": "ISC",
