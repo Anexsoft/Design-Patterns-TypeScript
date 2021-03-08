@@ -9,7 +9,8 @@
     "test-adapter": "mocha -r ts-node/register structural/adapter/*.spec.ts",
     "test-decorator": "mocha -r ts-node/register structural/decorator/*.spec.ts",
     "test-proxy": "mocha -r ts-node/register structural/proxy/*.spec.ts",
-    "test-command": "mocha -r ts-node/register behavior/command/*.spec.ts"
+    "test-command": "mocha -r ts-node/register behaviour/command/*.spec.ts",
+    "test-observer": "mocha -r ts-node/register behaviour/observer/*.spec.ts"
   },
   "author": "kodoti",
   "license": "ISC",
