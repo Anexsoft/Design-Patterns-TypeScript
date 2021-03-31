@@ -21,9 +21,9 @@ https://www.youtube.com/watch?v=Yk5TXytE-gs
 * Proxy - https://www.youtube.com/watch?v=K3EzQjJNJTo
 
 ### Behavior
-* Command
-* Observer
-* Strategy
+* Command - https://www.youtube.com/watch?v=OHm23zee9tU
+* Observer - https://www.youtube.com/watch?v=WUsOLZpBsjU
+* Strategy - https://www.youtube.com/watch?v=BfaWQ5IiJCc
 
 ## Suscríbete
 A nuestro canal para seguir subiendo más material y esten atentos a nuestros próximos videos de contenido gratuito.
